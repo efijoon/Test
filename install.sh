@@ -5,9 +5,9 @@ green='\033[0;32m'
 yellow='\033[0;33m'
 plain='\033[0m'
 
-config_account='admin'
-config_password='admin'
-config_port='54321'
+config_account=''
+config_password=''
+config_port=''
 
 cur_dir=$(pwd)
 
